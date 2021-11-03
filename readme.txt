@@ -1,0 +1,1 @@
+Berikut merupakan tugas mata kuliah Human Computer Interaction saya. Tugas ini saya kerjakan pada saat saya berkuliah di Binus University. Tugas ini dibuat menggunakan bahasa pemrograman HTML dan CSS.
